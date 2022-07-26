@@ -11,7 +11,7 @@ class _HomeScreenState extends State<HomeScreen> {
   List pages = [
     BarItemPage(),
     SearchPage(),
-    //MyPage(),
+    MyPage(),
   ];
   int currentIndex = 0;
 
